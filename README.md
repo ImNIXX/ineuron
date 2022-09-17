@@ -13,7 +13,7 @@
 ```
 
 -   **Install a package for JS indentation (pre-commit)**
-ss
+
 ```
     npm i prettier
 ```
